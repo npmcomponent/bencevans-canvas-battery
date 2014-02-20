@@ -1,0 +1,11 @@
+{
+  "name": "bencevans-canvas-battery",
+  "description": "Canvas Battery Status",
+  "version": "0.1.0",
+  "keywords": [
+    "canvas",
+    "battery"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
